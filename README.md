@@ -4,13 +4,13 @@ Swift의 알고리즘을 공부하는 레포지토리입니다.
 
 매주 Raywenderlich의 자료구조,알고리즘을 한 챕터씩 공부하고, 일주일에 최소 3개 이상의 코딩테스트를 풀어 업로드합니다.
 
-### 알고리즘 공부 
+### 📕 알고리즘 공부 
 [Raywenderlich, Swift의 자료구조,알고리즘] (https://www.raywenderlich.com/books/data-structures-algorithms-in-swift)
 
-### 코딩테스트 및 알고리즘 공부 기록 깃허브
+### 💻 코딩테스트 및 알고리즘 공부 기록 깃허브
 [github/Problem-Solving-Swift](https://github.com/heydoy/Problem-Solving-Swift)
 
-### 참고
+### 📌 참고
 ##### 한국어 알고리즘 책
 http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161750170
 
