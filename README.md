@@ -17,15 +17,15 @@ Swift의 알고리즘을 공부하는 레포지토리입니다.
 <br>
 
 ## 📌 **참고**
-### *한국어 알고리즘 책*
+#### *한국어 알고리즘 책*
 http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161750170
 <br>
 
-### *스위트프 문법 한국어 정리본*
+#### *스위트프 문법 한국어 정리본*
 https://jusung.gitbook.io/the-swift-language-guide/
 <br>
 
-### *기타 도움이 될만한 깃헙 레포들*
+#### *기타 도움이 될만한 깃헙 레포들*
 1. https://github.com/songda515/SwiftAlgorithm (swift 알고리즘 스터디 레포)
 2. https://github.com/duyeonnn/Problem_Solving (swift 문제+답들)
 3. https://github.com/tony9402/baekjoon (swift아님, 코테 기본 질문들)
