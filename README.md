@@ -7,7 +7,7 @@ Swift의 알고리즘을 공부하는 레포지토리입니다.
 <br>
 
 ## 📕 **알고리즘 공부** 
-[Raywenderlich, Swift의 자료구조,알고리즘] (https://www.raywenderlich.com/books/data-structures-algorithms-in-swift)
+[Raywenderlich, Swift의 자료구조,알고리즘](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift)
 <br>
 <br>
 
